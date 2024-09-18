@@ -1,0 +1,6 @@
+This is the first file class in PlP.
+Its fun to code with PlP: 42
+This is the 5th week on python class
+Appending a new line of text.
+Adding another line with numbers: 123
+Final line with more text: Goodbye!
